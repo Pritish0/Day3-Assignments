@@ -1,1 +1,11 @@
 # Day3-Assignments
+1. ![Screenshot (113)](https://user-images.githubusercontent.com/109068176/178724235-0d5da4c8-f866-4c0b-8385-ca762390de2c.png)
+2. ![Screenshot (115)](https://user-images.githubusercontent.com/109068176/178724441-17dc5788-5dc7-4a2d-a9ce-260d80d4784f.png)
+3. ![Screenshot (116)](https://user-images.githubusercontent.com/109068176/178724490-1bfc4857-3e82-4c35-8760-3d46609ddcea.png)
+4. ![Screenshot (117)](https://user-images.githubusercontent.com/109068176/178724595-02be34b4-3d8f-4354-a94e-2421a37fdff1.png)
+5. ![Screenshot (118)](https://user-images.githubusercontent.com/109068176/178724628-0508045b-7bcc-4375-b6a2-58c125de26cd.png)
+6. ![Screenshot (119)](https://user-images.githubusercontent.com/109068176/178724673-b366b88c-debe-405f-b344-c49345421bff.png)
+7. ![Screenshot (120)](https://user-images.githubusercontent.com/109068176/178724720-9cee4d1b-16ec-4419-9f0a-32dd953fea36.png)
+8. ![Screenshot (121)](https://user-images.githubusercontent.com/109068176/178724759-1088ae91-cef1-45fe-a032-e6a3b9acf249.png)
+9. ![Screenshot (122)](https://user-images.githubusercontent.com/109068176/178724775-b6055e91-80ec-4dfe-a328-46efe95064b1.png)
+10. ![Screenshot (123)](https://user-images.githubusercontent.com/109068176/178724806-ba4402ae-c905-456a-bc06-94668e5f7fc0.png)
